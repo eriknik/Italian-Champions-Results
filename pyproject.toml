@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "italian_champions_results"
+version = "0.1.0"
+description = "Download and parse IOF XML 3.0 orienteering results"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["requests"]
+
+[project.optional-dependencies]
+dev = ["pytest", "mypy"]
+
+[project.scripts]
+italian-champions-results = "italian_champions_results.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

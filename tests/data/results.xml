@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ResultList xmlns="http://www.orienteering.org/datastandard/3.0" iofVersion="3.0">
+  <Event>
+    <Name>Test Championship</Name>
+    <StartTime><Date>2026-09-12</Date><Time>14:30:00</Time></StartTime>
+  </Event>
+  <ClassResult>
+    <Class><Id>M ELITE</Id><Name>M ELITE</Name></Class>
+    <PersonResult>
+      <Person><Id>AA0001</Id><Name><Family>Rossi</Family><Given>Mario</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0098</Id><Name>ASD PERCHÉ ORIENTEERING È BELLO</Name></Organisation>
+      <Result>
+        <BibNumber>260</BibNumber>
+        <StartTime>2026-09-12T14:30:13.000+02:00</StartTime>
+        <FinishTime>2026-09-12T14:49:00.000+02:00</FinishTime>
+        <Time>1127</Time><TimeBehind>0</TimeBehind><Position>1</Position>
+        <Status>OK</Status>
+        <SplitTime><ControlCode>31</ControlCode><Time>189</Time></SplitTime>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id/><Name><Family>Bianchi</Family><Given>Luca</Given></Name></Person>
+      <Result>
+        <BibNumber>827</BibNumber>
+        <Time>1656</Time><TimeBehind>529</TimeBehind><Position>5</Position>
+        <Status>OK</Status>
+      </Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id>AA0003</Id><Name><Family>Verdi</Family><Given>Paolo</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0098</Id><Name>ASD PERCHÉ ORIENTEERING È BELLO</Name></Organisation>
+      <Result>
+        <BibNumber>145</BibNumber>
+        <Time>2626</Time><TimeBehind>1499</TimeBehind><Position>15</Position>
+        <Status>MissingPunch</Status>
+      </Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class><Id>M B</Id><Name>M B</Name></Class>
+    <PersonResult>
+      <Person><Id>AU0001</Id><Name><Family>Hansen</Family><Given>Karl</Given></Name><Nationality code="AUT">Austria</Nationality></Person>
+      <Organisation><Id>0982</Id><Name>ASD OTHER CLUB</Name></Organisation>
+      <Result><BibNumber>1</BibNumber><Time>1000</Time><TimeBehind>0</TimeBehind><Position>1</Position><Status>OK</Status></Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id>AA0005</Id><Name><Family>Gialli</Family><Given>Marco</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0098</Id><Name>ASD PERCHÉ ORIENTEERING È BELLO</Name></Organisation>
+      <Result><BibNumber>2</BibNumber><Time>1100</Time><TimeBehind>100</TimeBehind><Position>2</Position><Status>OK</Status></Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id>AA0006</Id><Name><Family>Blu</Family><Given>Sergio</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0982</Id><Name>ASD OTHER CLUB</Name></Organisation>
+      <Result><BibNumber>3</BibNumber><Time>1200</Time><TimeBehind>200</TimeBehind><Position>3</Position><Status>OK</Status></Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class><Id>W ELITE</Id><Name>W ELITE</Name></Class>
+    <PersonResult>
+      <Person><Id>SL0001</Id><Name><Family>Novak</Family><Given>Eva</Given></Name><Nationality code="SLO">Slovenia</Nationality></Person>
+      <Organisation><Id>0982</Id><Name>ASD OTHER CLUB</Name></Organisation>
+      <Result><BibNumber>10</BibNumber><Time>1300</Time><TimeBehind>0</TimeBehind><Position>1</Position><Status>OK</Status></Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id>AA0004</Id><Name><Family>Neri</Family><Given>Anna</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0982</Id><Name>ASD OTHER CLUB</Name></Organisation>
+      <Result><BibNumber>11</BibNumber><Time>1345</Time><TimeBehind>45</TimeBehind><Position>2</Position><Status>OK</Status></Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id>AA0007</Id><Name><Family>Grigi</Family><Given>Sara</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0098</Id><Name>ASD PERCHÉ ORIENTEERING È BELLO</Name></Organisation>
+      <Result><BibNumber>12</BibNumber><Time>1400</Time><TimeBehind>100</TimeBehind><Position>3</Position><Status>OK</Status></Result>
+    </PersonResult>
+  </ClassResult>
+  <ClassResult>
+    <Class><Id>W 10</Id><Name>W 10</Name></Class>
+    <PersonResult>
+      <Person><Id>AA0008</Id><Name><Family>Rosa</Family><Given>Giulia</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0098</Id><Name>ASD PERCHÉ ORIENTEERING È BELLO</Name></Organisation>
+      <Result><BibNumber>20</BibNumber><Time>900</Time><TimeBehind>0</TimeBehind><Position>1</Position><Status>OK</Status></Result>
+    </PersonResult>
+    <PersonResult>
+      <Person><Id>AA0009</Id><Name><Family>Viola</Family><Given>Elena</Given></Name><Nationality code="ITA">Italia</Nationality></Person>
+      <Organisation><Id>0982</Id><Name>ASD OTHER CLUB</Name></Organisation>
+      <Result><BibNumber>21</BibNumber><Time>900</Time><TimeBehind>0</TimeBehind><Position>1</Position><Status>OK</Status></Result>
+    </PersonResult>
+  </ClassResult>
+</ResultList>
