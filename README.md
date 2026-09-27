@@ -1,4 +1,4 @@
-#
+# Italian Champions Results
 
 Downloads the results of an orienteering event from the Italian Orienteering
 Federation website (IOF XML 3.0 format) and prints the event name and date and,
